@@ -1,0 +1,7 @@
+{
+  "name": "KPK Ramzan Relief Package-2026",
+  "description": "Official portal for Khyber Pakhtunkhwa Ramzan Relief Package 12000 application and status checking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
